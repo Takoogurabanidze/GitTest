@@ -17,7 +17,6 @@ public class KarelProgramSample extends SuperKarel {
 	public void run() {
 move();
 move();
-
 pickBeeper();
 move();
 putBeeper();
