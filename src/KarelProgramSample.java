@@ -1,3 +1,5 @@
+import stanford.karel.SuperKarel;
+
 /*
  * File: CheckerboardKarel.java
  * ----------------------------
@@ -7,7 +9,7 @@
  * worlds supplied in the starter folder.
  */
 
-import stanford.karel.*;
+
 
 public class KarelProgramSample extends SuperKarel {
 
@@ -15,12 +17,6 @@ public class KarelProgramSample extends SuperKarel {
 
 	@Override
 	public void run() {
-move();
-move();
-pickBeeper();
-move();
-putBeeper();
-
 
 
 	}
