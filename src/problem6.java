@@ -12,6 +12,11 @@ public class problem6 extends SuperKarel{
 		restoreFromBackup();
 	}
 
+	private void restoreFromBackup() {
+		// TODO Auto-generated method stub
+		
+	}
+
 	private void moveSecondPileToDestinationAndBackup() {
 		while(beepersPresent()){
 			pickBeeper();
